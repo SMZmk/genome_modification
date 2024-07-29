@@ -1,0 +1,12 @@
+#source GFF: https://www.arabidopsis.org/download_files/Genes/TAIR10_genome_release/TAIR10_gff3/TAIR10_GFF3_genes.gff
+std
+it None
+sn 0.01
+
+chr 1 #Chr1
+chr 2 #Chr2
+chr 3 #Chr3
+chr 4 #Chr4
+chr 5 #Chr5
+chr 6 #ChrC
+chr 7 #ChrM
